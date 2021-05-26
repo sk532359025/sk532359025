@@ -12,15 +12,15 @@ Wechat: sun17ya
 
 
 ## Who am I
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;喜欢钻研互联网相关技术，谦虚好学，希望能在贵公司得到更好的历练，
+并在本人能力范围内尽可能的超额完成公司布置的相关工作。
+更希望跟各位同行前辈学习相关知识，以充实我的阅历，帮助我更好的规划个人职业人生道路。
 
 - 🔭 正在规划及开发的开源项目 [go-laravel](https://github.com/sun17ya/golang-laravel)
-- 🌱 正在学习Golang.
-- 👯 短文本分类
+- 🌱 正在学习Golang、VUE
+- 👯 短文本分类[tf-idf](https://github.com/sun17ya/nlp-tf-idf)
 - 📘 我的博客[here](http://sun17ya.github.io/)
 - 💬 欢迎一起参与[go-laravel](https://github.com/sun17ya/golang-laravel)
-- 💤 My Github Lab courses will be [here](https://lab.github.com/airdb)
 
 ## Research Fields
   - DDD(领域驱动设计)
@@ -34,10 +34,12 @@ Wechat: sun17ya
 - [studygolang](http://sun17ya.github.io/) 
 - [go-laravel](yurendao.kangkang17.com) account:sun123 password:123456
 
-## Skills
 
 ### Programming
-| <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="vuejs" width="64" height="64" align="bottom" />  |   <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="64" height="64" align="bottom" /> |  <img src="https://www.terraform.io/assets/images/mega-nav/logo-terraform-ff69eaae.svg" alt="vuejs" width="64" height="64" align="bottom" /> | <img src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="docker" width="64" height="64" align="bottom" /> |
+| <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="vuejs" width="64" height="64" align="bottom" />  
+| <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="64" height="64" align="bottom" /> 
+| <img src="https://www.terraform.io/assets/images/mega-nav/logo-terraform-ff69eaae.svg" alt="vuejs" width="64" height="64" align="bottom" /> 
+| <img src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="docker" width="64" height="64" align="bottom" /> |
 | :-: | :-: | :-: | :-: |
 | [Golang](https://golang.org) |  [VueJS](https://cn.vuejs.org/) |  [Terraform](https://www.terraform.io/)  | [Docker](https://www.docker.com/)  |
 
