@@ -12,28 +12,27 @@ Wechat: sun17ya
 
 
 ## Who am I
-xxx
 
 
-- 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
-- 🌱 I’m currently learning Golang & Vue.
-- 👯 The official site of airdb is [airdb Homepage](https://airdb.github.io/)
-- 📘 My blog or wiki is [here](https://airdb-wiki.github.io)
-- 💬 Join our airdb slack [here](https://airdb-com.slack.com/)
+
+- 🔭 正在规划及开发的开源项目 [go-laravel](https://github.com/sun17ya/golang-laravel)
+- 🌱 正在学习Golang.
+- 👯 短文本分类
+- 📘 我的博客[here](http://sun17ya.github.io/)
+- 💬 欢迎一起参与[go-laravel](https://github.com/sun17ya/golang-laravel)
 - 💤 My Github Lab courses will be [here](https://lab.github.com/airdb)
 
 ## Research Fields
-  - 7 Layer Load Balance
-  - Traffic Scheduling with large scale
-  - Hacking on Github
-  - CI/CD, Montoring System
-  - IaaS: OS and Docker
-  - API Gateway + Serverless
+  - DDD(领域驱动设计)
+  - 微服务
+  - docker
+  - api gateway
+  - k8s
   
 ## Projects
 
-- [studygolang](https://airdb-wiki.github.io/studygolang) 
-- [bbhj](https://airdb-wiki.github.io/bbhj) 
+- [studygolang](http://sun17ya.github.io/) 
+- [go-laravel](yurendao.kangkang17.com) account:sun123 password:123456
 
 ## Skills
 
