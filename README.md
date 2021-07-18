@@ -9,18 +9,18 @@ Name: 孙小虎
 Email: m15829090357@163.com
 <br>
 Wechat: sun17ya
-[gitee](https://github.com/sun17ya/golang-laravel)
+[gitee](https://github.com/yino/golang-laravel)
 
 ## Who am I
 &nbsp;&nbsp;&nbsp;&nbsp;喜欢钻研互联网相关技术，谦虚好学，希望能在贵公司得到更好的历练，
 并在本人能力范围内尽可能的超额完成公司布置的相关工作。
 更希望跟各位同行前辈学习相关知识，以充实我的阅历，帮助我更好的规划个人职业人生道路。
 
-- 🔭 正在规划及开发的开源项目 [go-laravel](https://github.com/sun17ya/golang-laravel)
+- 🔭 正在规划及开发的开源项目 [go-laravel](https://github.com/yino/golang-laravel)
 - 🌱 正在学习Golang、VUE
-- 👯 短文本分类[tf-idf](https://github.com/sun17ya/nlp-tf-idf)
+- 👯 短文本分类[tf-idf](https://github.com/yino/nlp-tf-idf)
 - 📘 我的博客[here](http://sun17ya.github.io/)
-- 💬 欢迎一起参与[go-laravel](https://github.com/sun17ya/golang-laravel)
+- 💬 欢迎一起参与[go-laravel](https://github.com/yino/golang-laravel)
 
 ## Research Fields
   - DDD(领域驱动设计)
@@ -31,7 +31,7 @@ Wechat: sun17ya
   
 ## Projects
 
-- [studygolang](http://sun17ya.github.io/) 
+- [studygolang](http://yino.github.io/) 
 - [go-laravel](yurendao.kangkang17.com) account:sun123 password:123456
 
 
