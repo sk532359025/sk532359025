@@ -9,12 +9,15 @@ Name: 孙小虎
 Email: m15829090357@163.com
 <br>
 Wechat: sun17ya
-[gitee](https://github.com/yino/golang-laravel)
+[gitee](https://github.com/yino/golang-laravel) 很多项目都在gitee上面哦
 
 ## Who am I
 &nbsp;&nbsp;&nbsp;&nbsp;喜欢钻研互联网相关技术，谦虚好学，希望能在贵公司得到更好的历练，
 并在本人能力范围内尽可能的超额完成公司布置的相关工作。
 更希望跟各位同行前辈学习相关知识，以充实我的阅历，帮助我更好的规划个人职业人生道路。
+
+![673112FF](https://user-images.githubusercontent.com/32722688/139817268-20abcb98-7650-49d8-b332-901299b2d3c3.gif)
+引路大佬 [deancn](https://github.com/deancn)
 
 - 🔭 正在规划及开发的开源项目 [go-laravel](https://github.com/yino/golang-laravel)
 - 🌱 正在学习Golang、VUE
