@@ -24,7 +24,6 @@ Wechat: sun17ya
 - 👯 短文本分类[tf-idf](https://github.com/yino/nlp-tf-idf)
 - 📘 我的博客[here](http://sun17ya.github.io/)
 - 💬 欢迎一起参与[go-laravel](https://github.com/yino/golang-laravel)
-
 ## Research Fields
   - DDD(领域驱动设计)
   - 微服务
