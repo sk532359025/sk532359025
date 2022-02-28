@@ -10,7 +10,7 @@ Email: m15829090357@163.com
 <br>
 Wechat: sun17ya
 <br>
-[gitee](https://gitee.com/sun17ya) 很多项目都在gitee上面哦
+[gitee](https://gitee.com/sun17ya) ：因为“墙”的原因，很多项目都在gitee上面哦
 
 ## Who am I
 &nbsp;&nbsp;&nbsp;&nbsp;喜欢钻研互联网相关技术，希望跟各位同行前辈学习相关知识，以充实我的阅历，帮助我更好的规划个人职业人生道路。
