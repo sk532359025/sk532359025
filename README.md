@@ -21,7 +21,7 @@ Wechat: sun17ya
 - 🔭 正在规划及开发的开源项目 [docker](https://gitee.com/sun17ya/docker)
 - 🌱 正在学习Golang、VUE
 - 👯 短文本分类[tf-idf](https://github.com/yino/nlp-tf-idf)
-- 📘 我的博客[here](http://sun17ya.github.io/)
+- 📘 我的博客[here](http://yino.github.io/)
 ## Research Fields
   - DDD(领域驱动设计)
   - 微服务
